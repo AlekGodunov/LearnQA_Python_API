@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d4729d1-81ca-474f-9657-dea21ca80597" name="Changes" comment="Add">
-      <change afterPath="$PROJECT_DIR$/Ex13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/assertions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/base_case.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_user_auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/My_requests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Ex15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Ex16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Ex17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Ex18.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/assertions.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/assertions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/base_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/base_case.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,28 +46,7 @@
       <recent name="C:\Users\Godunov\Documents\GitHub\LearnQA_PythonAPI\" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Ex11 (1)">
-    <configuration name="Ex10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LearnQA_PythonAPI" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Godunov\Documents\GitHub\LearnQA_PythonAPI\Ex10.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Python tests for Ex15.TestUserRegister">
     <configuration name="Ex11 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnQA_PythonAPI" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,55 +110,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for Ex13.Test.test_user_agent" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="LearnQA_PythonAPI" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex7.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Ex13.Test.test_user_agent&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for Ex15.TestUserRegister" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="LearnQA_PythonAPI" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Ex15.TestUserRegister&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in Ex13.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="LearnQA_PythonAPI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex8.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Ex13.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for Ex15.TestUserRegister" />
+        <item itemvalue="Python tests.Python tests for Ex13.Test.test_user_agent" />
+        <item itemvalue="Python tests.Python tests in Ex13.py" />
         <item itemvalue="Python.Ex11 (1)" />
         <item itemvalue="Python.Ex11" />
-        <item itemvalue="Python.Ex10" />
-        <item itemvalue="Python.Ex8" />
-        <item itemvalue="Python.Ex7" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +248,21 @@
       <option name="project" value="LOCAL" />
       <updated>1649795934204</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Add">
+      <created>1649798167758</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1649798167758</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Add">
+      <created>1650918867304</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1650918867305</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
